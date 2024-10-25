@@ -10,6 +10,8 @@ Accompanying resources to the conference talk at [Machine Learning Week Europe](
 # Abstract
 How do you motivate and guide an existing organization to create and share analytical data products to improve the results of analytics, machine-learning and ai? Thomas will give you insights into Mercedes Benz AG’s data product cookbook that motivates data mesh and data products, supports data consumers, and provides a step-by-step checklist to build a data product – from business model canvas to data models and lifecycle management.
 
+---
+layout: page
 title: Targeting Customers with Persona Matching at Mercedes-Benz
 author:
 - Ole Brodersen
